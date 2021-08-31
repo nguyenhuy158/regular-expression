@@ -2,9 +2,9 @@
 
 > Hãy kiểm tra tên đăng nhập với yêu cầu:
 > - Chữ đầu tiên không phải là số.
-> - ·ó t·ể ·ết t·úcă·ằng ·ô
-> -···ợc p·ép ·à c·ữ v·ết hoa ·à v·ết t·ường.
-> - khi c·ỉ ·ó 2 ·ừ t·ì ô·ộc ·à 2 c·ữ ·ái.
+> - Số buộc phải nằm ở cuối.
+> - Cho phép chữ hoa chữ thường.
+> - Khi chỉ có 2 từ buộc là chữ hết.
 
 ### my Solution
 -------------
